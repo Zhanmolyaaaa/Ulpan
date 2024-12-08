@@ -68,7 +68,7 @@
             <h2>Менің Портфолиом</h2>
             <!-- Замените # на вашу реальную ссылку -->
             <p>Менің жұмысымды осы жерден көруге болады:</p>
-            <a href="https://zhanbolatqyzyulpan.wixsite.com/ulpaan"_blank">Менің Портфолио сайтыма өту</a>
+            <a href="https://zhanbolatqyzyulpan.wixsite.com/ulpaan"target="_blank">Менің Портфолио сайтыма өту</a>
         </div>
         <!-- Завершающий текст -->
         <div class="footer">
